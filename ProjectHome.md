@@ -1,0 +1,1 @@
+This theme was based on the design of John from <a href='http://joshuaink.com/'>JoshuaInk.com</a>. The icons were taken from the Silk Icons collection at <a href='http://www.famfamfam.com/lab/icons/silk/'>famfamfam.com</a>.
